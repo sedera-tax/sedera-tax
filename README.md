@@ -6,7 +6,7 @@ I'm a PHP developer.
 ![](https://img.shields.io/badge/-php-informational?style=flat&logo=php&logoColor=white&color=787CB5)
 ![](https://img.shields.io/badge/-codeigniter-white?style=flat&logo=codeigniter&logoColor=white&color=DD4814)
 ![](https://img.shields.io/badge/-zend-framework?style=flat&logo=zendframework&logoColor=white&color=5cb85c)
-![]https://img.shields.io/badge/-symfony-white?style=flat&logo=symfony&logoColor=white&color=000)
+![](https://img.shields.io/badge/-symfony-white?style=flat&logo=symfony&logoColor=white&color=000)
 ![](https://img.shields.io/badge/-javascript-white?style=flat&logo=javascript&logoColor=black&color=F0DB4F)
 ![](https://img.shields.io/badge/-react-white?style=flat&logo=react&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/-vue-white?style=flat&logo=vue.js&logoColor=white&color=42b883)
