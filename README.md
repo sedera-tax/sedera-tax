@@ -24,6 +24,10 @@ I'm a PHP developer.
 [![](https://img.shields.io/badge/-stackoverflow-white?style=flat&logo=stack-overflow&logoColor=white&color=f48024&link=https://stackoverflow.com/users/14906541/yannick-sedera-aina)](https://stackoverflow.com/users/14906541/yannick-sedera-aina)
 [![](https://img.shields.io/badge/-facebook-white?style=flat&logo=facebook&logoColor=white&color=4267B2&link=https://www.facebook.com/SederaTax/)](https://www.facebook.com/SederaTax/)
 
+Me on github                                                                                                                                    | Most used languages |
+----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+[![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=sedera-tax&show_icons=true&theme=dark)](https://github.com/sedera-tax) | [![Yannick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedera-tax&show_icons=true&layout=compact&hide=css,html)](https://github.com/sedera-tax)
+
 <!--
 **sedera-tax/sedera-tax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
