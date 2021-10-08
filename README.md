@@ -2,7 +2,7 @@
 
 I'm a PHP developer.
 
-## Langages and technologies i use
+## Languages and technologies used
 ![](https://img.shields.io/badge/-php-informational?style=flat&logo=php&logoColor=white&color=787CB5)
 ![](https://img.shields.io/badge/-codeigniter-white?style=flat&logo=codeigniter&logoColor=white&color=DD4814)
 ![](https://img.shields.io/badge/-zend-framework?style=flat&logo=zendframework&logoColor=white&color=5cb85c)
